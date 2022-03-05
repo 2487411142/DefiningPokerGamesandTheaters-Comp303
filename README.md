@@ -1,8 +1,11 @@
 # DefiningPokerGamesandTheaters-Comp303
 
 •	Written in Java to represent poker games and theaters to demonstrate the Design Concepts and Principles, Programming Mechanisms, Design Techniques and Patterns & Antipatterns learned in class
+
 •	Using Concept and Principles: Encapsulation, information hiding, abstraction, immutability, ...
+
 •	Using Java mechanisms: Assertions, Java interfaces, interface implementation, null references, optional types, nested classes, closures, unit testing frameworks, JUnit, metaprogramming, ...
+
 •	Using design patterns: Null Object, Flyweight, Singleton, Composite, Decorator, Prototype, Command, Template Method, Observer, Visitor
 
 
