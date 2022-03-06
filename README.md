@@ -9,5 +9,4 @@
 •	Using design patterns: Null Object, Flyweight, Singleton, Composite, Decorator, Prototype, Command, Template Method, Observer, Visitor
 
 
-This coursework demontrate what I learned in class. From a pratical point of view, the Visitor, Observer, Composite and Decorator is the most important part. I used these design 
-patterns to represent a hand of cards, a theater that plays movies and different kind of movies.
+This coursework demonstrates what I learned in class. From a practical point of view, the Visitor, Observer, Composite and Decorator is the most important part. I used these design patterns to represent a hand of cards, a theater that plays movies and different kind of movies.
